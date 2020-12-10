@@ -27,7 +27,7 @@ abstruse
 abundant
 absurd
 abuse
-acquainted
+aquainted
 abysmal
 accede
 adhoc
@@ -47,7 +47,7 @@ acrid
 acrimonious
 acumen
 acute
-adamant
+adament
 adapt
 addict
 adhere
@@ -90,7 +90,7 @@ aloft
 aloof
 altruism
 amalgamate
-ambiguous
+ambigious
 amble
 ambrosial
 ameliorate
