@@ -5,7 +5,7 @@ import requests
 import playsound
 from requests_html import HTMLSession
 from urllib.parse import parse_qs, urlparse
-
+import shutil
 """
 
 
@@ -34,7 +34,9 @@ def down_mp3(url=None, path=None):
     if url is None:
         url = r"https://media.merriam-webster.com/audio/prons/en/us/mp3/a/a0000001.mp3"
     if path is None:
-        path = os.path.join(".", f"{random_name(n=4)}_{os.path.basename(url)}")
+        p = "./temp"
+        os.makedirs(p, exist_ok=True)
+        path = os.path.join(p, f"{random_name(n=4)}_{os.path.basename(url)}")
     res = requests.get(url, stream=True)
 
     with open(path, "wb") as f:
