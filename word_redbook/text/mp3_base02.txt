@@ -1,0 +1,394 @@
+[
+  {
+    "word": "nail",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\n\\nail0001.mp3"
+  },
+  {
+    "word": "naked",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\n\\naked001.mp3"
+  },
+  {
+    "word": "namely",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\n\\namely01.mp3"
+  },
+  {
+    "word": "nap",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\n\\nap00001.mp3"
+  },
+  {
+    "word": "napkin",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\n\\napkin01.mp3"
+  },
+  {
+    "word": "keen",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\k\\keen0001.mp3"
+  },
+  {
+    "word": "keyboard",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\k\\keyboa01.mp3"
+  },
+  {
+    "word": "labor",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\l\\labor001.mp3"
+  },
+  {
+    "word": "labour",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\e\\error001.mp3"
+  },
+  {
+    "word": "lace",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\l\\lace0001.mp3"
+  },
+  {
+    "word": "lack",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\l\\lack0001.mp3"
+  },
+  {
+    "word": "lad",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\l\\lad00001.mp3"
+  },
+  {
+    "word": "lamb",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\l\\lamb0001.mp3"
+  },
+  {
+    "word": "lame",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\l\\lame0001.mp3"
+  },
+  {
+    "word": "lamp",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\l\\lamp0001.mp3"
+  },
+  {
+    "word": "machine",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\m\\machin05.mp3"
+  },
+  {
+    "word": "machinery",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\m\\machin10.mp3"
+  },
+  {
+    "word": "mad",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\m\\mad00001.mp3"
+  },
+  {
+    "word": "magic",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\m\\magic001.mp3"
+  },
+  {
+    "word": "magistrate",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\m\\magist08.mp3"
+  },
+  {
+    "word": "magnet",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\m\\magnet01.mp3"
+  },
+  {
+    "word": "maiden",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\m\\maiden01.mp3"
+  },
+  {
+    "word": "main",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\m\\main0001.mp3"
+  },
+  {
+    "word": "mainland",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\m\\mainla01.mp3"
+  },
+  {
+    "word": "oar",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\o\\oar00001.mp3"
+  },
+  {
+    "word": "obedience",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\o\\obedie01.mp3"
+  },
+  {
+    "word": "obedient",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\o\\obedie02.mp3"
+  },
+  {
+    "word": "okey",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\e\\error001.mp3"
+  },
+  {
+    "word": "package",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\packag01.mp3"
+  },
+  {
+    "word": "pact",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\pact0001.mp3"
+  },
+  {
+    "word": "paddle",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\paddle01.mp3"
+  },
+  {
+    "word": "pain",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\pain0001.mp3"
+  },
+  {
+    "word": "painful",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\painfu01.mp3"
+  },
+  {
+    "word": "paint",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\paint001.mp3"
+  },
+  {
+    "word": "painter",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\painte01.mp3"
+  },
+  {
+    "word": "pair",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\pair0001.mp3"
+  },
+  {
+    "word": "pale",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\pale0001.mp3"
+  },
+  {
+    "word": "palm",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\palm0001.mp3"
+  },
+  {
+    "word": "pamphlet",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\pamphl01.mp3"
+  },
+  {
+    "word": "pant",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\pant0001.mp3"
+  },
+  {
+    "word": "paper",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\paper001.mp3"
+  },
+  {
+    "word": "paperback",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\paperb01.mp3"
+  },
+  {
+    "word": "parachute",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\parach01.mp3"
+  },
+  {
+    "word": "parade",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\parade01.mp3"
+  },
+  {
+    "word": "paradise",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\paradi11.mp3"
+  },
+  {
+    "word": "paradox",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\parado02.mp3"
+  },
+  {
+    "word": "parameter",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\parame08.mp3"
+  },
+  {
+    "word": "parasite",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\parasi01.mp3"
+  },
+  {
+    "word": "parcel",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\parcel01.mp3"
+  },
+  {
+    "word": "pardon",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\pardon01.mp3"
+  },
+  {
+    "word": "parliament",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\parlia02.mp3"
+  },
+  {
+    "word": "partly",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\partly01.mp3"
+  },
+  {
+    "word": "partner",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\partne02.mp3"
+  },
+  {
+    "word": "passage",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\passag01.mp3"
+  },
+  {
+    "word": "passerby",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\passer01.mp3"
+  },
+  {
+    "word": "passport",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\passpo01.mp3"
+  },
+  {
+    "word": "sack",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\sack0001.mp3"
+  },
+  {
+    "word": "saddle",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\saddle01.mp3"
+  },
+  {
+    "word": "safeguard",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\safegu01.mp3"
+  },
+  {
+    "word": "safety",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\safety01.mp3"
+  },
+  {
+    "word": "sail",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\sail0001.mp3"
+  },
+  {
+    "word": "sailor",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\sailor01.mp3"
+  },
+  {
+    "word": "saint",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\saint001.mp3"
+  },
+  {
+    "word": "sake",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\sake0001.mp3"
+  },
+  {
+    "word": "salad",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\salad001.mp3"
+  },
+  {
+    "word": "salary",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\salary01.mp3"
+  },
+  {
+    "word": "salute",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\salute01.mp3"
+  },
+  {
+    "word": "salvation",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\salvat01.mp3"
+  },
+  {
+    "word": "sample",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\sample01.mp3"
+  },
+  {
+    "word": "sanction",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\sancti06.mp3"
+  },
+  {
+    "word": "sandwich",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\sandwi01.mp3"
+  },
+  {
+    "word": "sane",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\sane0001.mp3"
+  },
+  {
+    "word": "sarcastic",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\sarcas02.mp3"
+  },
+  {
+    "word": "satellite",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\satell01.mp3"
+  },
+  {
+    "word": "ugly",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\u\\ugly0001.mp3"
+  },
+  {
+    "word": "ultraviolet",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\u\\ultrav01.mp3"
+  },
+  {
+    "word": "umbrella",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\u\\umbrel01.mp3"
+  },
+  {
+    "word": "unanimous",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\u\\unanim02.mp3"
+  },
+  {
+    "word": "vacation",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\v\\vacati01.mp3"
+  },
+  {
+    "word": "vacuum",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\v\\vacuum02.mp3"
+  },
+  {
+    "word": "vague",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\v\\vague001.mp3"
+  },
+  {
+    "word": "valve",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\v\\valve001.mp3"
+  },
+  {
+    "word": "waggon",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\e\\error001.mp3"
+  },
+  {
+    "word": "waist",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\w\\waist001.mp3"
+  },
+  {
+    "word": "waken",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\w\\waken001.mp3"
+  },
+  {
+    "word": "X-ray",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\x\\xray0001.mp3"
+  },
+  {
+    "word": "yard",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\y\\yard0001.mp3"
+  },
+  {
+    "word": "yawn",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\y\\yawn0001.mp3"
+  },
+  {
+    "word": "yearly",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\y\\yearly01.mp3"
+  },
+  {
+    "word": "yell",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\y\\yell0001.mp3"
+  },
+  {
+    "word": "yet",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\y\\yet00001.mp3"
+  },
+  {
+    "word": "zeal",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\z\\zeal0001.mp3"
+  },
+  {
+    "word": "zero",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\z\\zero0001.mp3"
+  },
+  {
+    "word": "zip",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\z\\zip00001.mp3"
+  },
+  {
+    "word": "agency",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\a\\agency01.mp3"
+  },
+  {
+    "word": "agenda",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\a\\agenda01.mp3"
+  },
+  {
+    "word": "aggravate",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\a\\aggrav01.mp3"
+  },
+  {
+    "word": "agony",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\a\\agony001.mp3"
+  }
+]
