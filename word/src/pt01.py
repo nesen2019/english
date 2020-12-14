@@ -10,6 +10,8 @@ __all__ = [
 
 
 def update_for_text_mp3(list_name, dir_mp3=None, is_down_delay=0.5):
+    import warnings
+    warnings.filterwarnings("ignore")
     if dir_mp3 is None:
         dir_mp3 = "."
     with open(list_name, "r") as f:
