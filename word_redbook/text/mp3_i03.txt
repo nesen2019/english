@@ -1,0 +1,314 @@
+[
+  {
+    "word": "tow",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\tow00001.mp3"
+  },
+  {
+    "word": "toward",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\toward01.mp3"
+  },
+  {
+    "word": "take",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\take0001.mp3"
+  },
+  {
+    "word": "talent",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\talent01.mp3"
+  },
+  {
+    "word": "target",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\target01.mp3"
+  },
+  {
+    "word": "taste",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\taste001.mp3"
+  },
+  {
+    "word": "technical",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\techni03.mp3"
+  },
+  {
+    "word": "technician",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\techni08.mp3"
+  },
+  {
+    "word": "technique",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\techni10.mp3"
+  },
+  {
+    "word": "technology",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\techno09.mp3"
+  },
+  {
+    "word": "teenager",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\teenag01.mp3"
+  },
+  {
+    "word": "temper",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\temper01.mp3"
+  },
+  {
+    "word": "temperature",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\temper12.mp3"
+  },
+  {
+    "word": "temporary",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\tempor05.mp3"
+  },
+  {
+    "word": "tempt",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\tempt001.mp3"
+  },
+  {
+    "word": "temptation",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\tempta01.mp3"
+  },
+  {
+    "word": "tend",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\tend0001.mp3"
+  },
+  {
+    "word": "tendency",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\tenden01.mp3"
+  },
+  {
+    "word": "tentative",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\tentat01.mp3"
+  },
+  {
+    "word": "term",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\term0001.mp3"
+  },
+  {
+    "word": "terminal",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\termin03.mp3"
+  },
+  {
+    "word": "terminate",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\termin05.mp3"
+  },
+  {
+    "word": "testify",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\testif01.mp3"
+  },
+  {
+    "word": "trace",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\trace001.mp3"
+  },
+  {
+    "word": "track",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\track001.mp3"
+  },
+  {
+    "word": "tradition",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\tradit01.mp3"
+  },
+  {
+    "word": "ultimate",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\u\\ultima04.mp3"
+  },
+  {
+    "word": "underestimate",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\u\\undere06.mp3"
+  },
+  {
+    "word": "undergo",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\u\\underg04.mp3"
+  },
+  {
+    "word": "underlie",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\u\\underl06.mp3"
+  },
+  {
+    "word": "underlying",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\u\\underl11.mp3"
+  },
+  {
+    "word": "underline",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\u\\underl08.mp3"
+  },
+  {
+    "word": "understand",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\u\\unders23.mp3"
+  },
+  {
+    "word": "understanding",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\u\\unders27.mp3"
+  },
+  {
+    "word": "undertake",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\u\\undert01.mp3"
+  },
+  {
+    "word": "uneasy",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\u\\uneasy01.mp3"
+  },
+  {
+    "word": "unemployment",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\u\\unempl04.mp3"
+  },
+  {
+    "word": "unexpected",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\u\\unexpe01.mp3"
+  },
+  {
+    "word": "unify",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\u\\unify001.mp3"
+  },
+  {
+    "word": "union",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\u\\union001.mp3"
+  },
+  {
+    "word": "unique",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\u\\unique01.mp3"
+  },
+  {
+    "word": "universal",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\u\\univer01.mp3"
+  },
+  {
+    "word": "universe",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\u\\univer10.mp3"
+  },
+  {
+    "word": "unlike",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\u\\unlike01.mp3"
+  },
+  {
+    "word": "unlikely",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\u\\unlike04.mp3"
+  },
+  {
+    "word": "unusual",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\u\\unusua01.mp3"
+  },
+  {
+    "word": "vague",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\v\\vague001.mp3"
+  },
+  {
+    "word": "valid",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\v\\valid001.mp3"
+  },
+  {
+    "word": "valuable",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\v\\valuab02.mp3"
+  },
+  {
+    "word": "value",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\v\\value001.mp3"
+  },
+  {
+    "word": "vanish",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\v\\vanish01.mp3"
+  },
+  {
+    "word": "variable",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\v\\variab01.mp3"
+  },
+  {
+    "word": "variation",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\v\\variat03.mp3"
+  },
+  {
+    "word": "variety",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\v\\variet02.mp3"
+  },
+  {
+    "word": "various",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\v\\variou01.mp3"
+  },
+  {
+    "word": "vary",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\v\\very0001.mp3"
+  },
+  {
+    "word": "vast",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\v\\vast0001.mp3"
+  },
+  {
+    "word": "wage",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\w\\wage0001.mp3"
+  },
+  {
+    "word": "wander",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\w\\wander01.mp3"
+  },
+  {
+    "word": "want",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\9\\9wont001.mp3"
+  },
+  {
+    "word": "way",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\w\\way00001.mp3"
+  },
+  {
+    "word": "weak",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\w\\weak0001.mp3"
+  },
+  {
+    "word": "wear",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\w\\wear0001.mp3"
+  },
+  {
+    "word": "weary",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\w\\weary001.mp3"
+  },
+  {
+    "word": "weigh",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\w\\weigh001.mp3"
+  },
+  {
+    "word": "weight",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\w\\weight01.mp3"
+  },
+  {
+    "word": "weird",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\w\\weird001.mp3"
+  },
+  {
+    "word": "weld",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\w\\weld0001.mp3"
+  },
+  {
+    "word": "welfare",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\w\\welfar01.mp3"
+  },
+  {
+    "word": "whirl",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\w\\whirl001.mp3"
+  },
+  {
+    "word": "whisper",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\w\\whispe01.mp3"
+  },
+  {
+    "word": "yield",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\y\\yield001.mp3"
+  },
+  {
+    "word": "youth",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\y\\youth001.mp3"
+  },
+  {
+    "word": "zigzag",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\z\\zigzag01.mp3"
+  },
+  {
+    "word": "zone",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\z\\zone0001.mp3"
+  },
+  {
+    "word": "zoom",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\z\\zoom0001.mp3"
+  },
+  {
+    "word": "key",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\k\\key00001.mp3"
+  },
+  {
+    "word": "knit",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\k\\knit0001.mp3"
+  }
+]

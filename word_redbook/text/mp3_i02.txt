@@ -1,0 +1,270 @@
+[
+  {
+    "word": "abandon",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\a\\abando01.mp3"
+  },
+  {
+    "word": "abide",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\a\\abide001.mp3"
+  },
+  {
+    "word": "ability",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\a\\abilit01.mp3"
+  },
+  {
+    "word": "able",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\a\\able0001.mp3"
+  },
+  {
+    "word": "abnormal",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\a\\abnorm01.mp3"
+  },
+  {
+    "word": "background",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\b\\backgr01.mp3"
+  },
+  {
+    "word": "balance",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\b\\balanc01.mp3"
+  },
+  {
+    "word": "base",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\b\\base0001.mp3"
+  },
+  {
+    "word": "basement",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\b\\baseme01.mp3"
+  },
+  {
+    "word": "basic",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\b\\basic001.mp3"
+  },
+  {
+    "word": "basis",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\b\\basis001.mp3"
+  },
+  {
+    "word": "calculate",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\calcul02.mp3"
+  },
+  {
+    "word": "call",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\call0001.mp3"
+  },
+  {
+    "word": "calm",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\calm0001.mp3"
+  },
+  {
+    "word": "campaign",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\campai01.mp3"
+  },
+  {
+    "word": "candidate",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\candid04.mp3"
+  },
+  {
+    "word": "data",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\d\\data0002.mp3"
+  },
+  {
+    "word": "database",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\d\\databa01.mp3"
+  },
+  {
+    "word": "date",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\d\\date0001.mp3"
+  },
+  {
+    "word": "dazzle",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\d\\dazzle01.mp3"
+  },
+  {
+    "word": "deal",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\d\\deal0001.mp3"
+  },
+  {
+    "word": "dealer",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\d\\deal0001.mp3"
+  },
+  {
+    "word": "debate",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\d\\debate01.mp3"
+  },
+  {
+    "word": "decade",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\d\\decade01.mp3"
+  },
+  {
+    "word": "decide",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\d\\decide01.mp3"
+  },
+  {
+    "word": "decision",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\d\\decisi01.mp3"
+  },
+  {
+    "word": "decisive",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\d\\decisi03.mp3"
+  },
+  {
+    "word": "decorate",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\d\\decora01.mp3"
+  },
+  {
+    "word": "economic",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\e\\econom07.mp3"
+  },
+  {
+    "word": "economical",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\e\\econom08.mp3"
+  },
+  {
+    "word": "economics",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\e\\econom11.mp3"
+  },
+  {
+    "word": "economy",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\e\\econom14.mp3"
+  },
+  {
+    "word": "educate",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\e\\educat01.mp3"
+  },
+  {
+    "word": "education",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\e\\educat02.mp3"
+  },
+  {
+    "word": "effect",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\e\\effect01.mp3"
+  },
+  {
+    "word": "effective",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\e\\effect02.mp3"
+  },
+  {
+    "word": "efficient",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\e\\effici02.mp3"
+  },
+  {
+    "word": "efficiency",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\e\\effici01.mp3"
+  },
+  {
+    "word": "effort",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\e\\effort01.mp3"
+  },
+  {
+    "word": "fabric",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\f\\fabric01.mp3"
+  },
+  {
+    "word": "fabricate",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\f\\fabric03.mp3"
+  },
+  {
+    "word": "face",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\f\\face0001.mp3"
+  },
+  {
+    "word": "factor",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\f\\factor01.mp3"
+  },
+  {
+    "word": "fade",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\f\\fade0001.mp3"
+  },
+  {
+    "word": "fail",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\f\\fail0001.mp3"
+  },
+  {
+    "word": "failure",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\f\\failur01.mp3"
+  },
+  {
+    "word": "fair",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\f\\fair0001.mp3"
+  },
+  {
+    "word": "fairly",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\f\\fairly01.mp3"
+  },
+  {
+    "word": "fall",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\f\\fall0001.mp3"
+  },
+  {
+    "word": "fan",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\f\\fan00001.mp3"
+  },
+  {
+    "word": "fancy",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\f\\fancy001.mp3"
+  },
+  {
+    "word": "fascinate",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\f\\fascin01.mp3"
+  },
+  {
+    "word": "fain",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\f\\fain0001.mp3"
+  },
+  {
+    "word": "gamble",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\g\\gamble01.mp3"
+  },
+  {
+    "word": "gap",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\g\\gap00001.mp3"
+  },
+  {
+    "word": "gene",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\g\\gene0001.mp3"
+  },
+  {
+    "word": "general",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\g\\genera02.mp3"
+  },
+  {
+    "word": "generalize",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\g\\genera07.mp3"
+  },
+  {
+    "word": "habit",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\h\\habit001.mp3"
+  },
+  {
+    "word": "habitat",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\h\\habita08.mp3"
+  },
+  {
+    "word": "hamper",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\h\\hamper01.mp3"
+  },
+  {
+    "word": "handicap",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\h\\handic01.mp3"
+  },
+  {
+    "word": "shield",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\shield01.mp3"
+  },
+  {
+    "word": "shift",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\shift001.mp3"
+  },
+  {
+    "word": "shoulder",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\should02.mp3"
+  },
+  {
+    "word": "show",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\show0001.mp3"
+  },
+  {
+    "word": "shower",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\shower01.mp3"
+  }
+]

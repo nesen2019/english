@@ -6,14 +6,14 @@ import ast
 import time
 from .mp3 import *
 
-def play_list_word(path_txt):
+def play_list_word(path_txt, time_delay=0.1):
     data = list()
     with open(path_txt, "r") as f:
         data = ast.literal_eval(f.read())
 
     for d in data:
         print(d["word"])
-        time.sleep(0.1)
+        time.sleep(time_delay)
         playsound.playsound(d["path_mp3"])
 
 

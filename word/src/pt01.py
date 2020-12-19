@@ -33,6 +33,7 @@ def update_for_text_mp3(list_name, dir_mp3=None, is_down_delay=0.5):
             if n_circle > 2:
                 return None
             else:
+                time.sleep(2)
                 path = get_path(word, n_circle + 1)
         return path
 

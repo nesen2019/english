@@ -1,0 +1,10 @@
+[
+  {
+    "word": "challenge",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\challe01.mp3"
+  },
+  {
+    "word": "characterize",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\charac08.mp3"
+  }
+]

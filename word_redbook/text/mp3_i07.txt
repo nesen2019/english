@@ -1,0 +1,258 @@
+[
+  {
+    "word": "meditate",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\m\\medita01.mp3"
+  },
+  {
+    "word": "meditation",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\m\\medita03.mp3"
+  },
+  {
+    "word": "medium",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\m\\medium01.mp3"
+  },
+  {
+    "word": "elaborate",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\e\\elabor01.mp3"
+  },
+  {
+    "word": "elegant",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\e\\elegan03.mp3"
+  },
+  {
+    "word": "element",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\e\\elemen01.mp3"
+  },
+  {
+    "word": "elementary",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\e\\elemen04.mp3"
+  },
+  {
+    "word": "eliminate",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\e\\elimin01.mp3"
+  },
+  {
+    "word": "abolish",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\a\\abolis01.mp3"
+  },
+  {
+    "word": "absence",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\a\\absenc01.mp3"
+  },
+  {
+    "word": "absent",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\a\\absent01.mp3"
+  },
+  {
+    "word": "abroad",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\a\\abroad01.mp3"
+  },
+  {
+    "word": "absolute",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\a\\absolu02.mp3"
+  },
+  {
+    "word": "absorb",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\a\\absorb02.mp3"
+  },
+  {
+    "word": "abstract",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\a\\abstra02.mp3"
+  },
+  {
+    "word": "ban",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\b\\ban00001.mp3"
+  },
+  {
+    "word": "bar",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\b\\bar00001.mp3"
+  },
+  {
+    "word": "bare",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\b\\bare0001.mp3"
+  },
+  {
+    "word": "barely",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\b\\barel01ld.mp3"
+  },
+  {
+    "word": "bargain",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\b\\bargai01.mp3"
+  },
+  {
+    "word": "capable",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\capabl01.mp3"
+  },
+  {
+    "word": "capacity",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\capaci07.mp3"
+  },
+  {
+    "word": "capital",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\capita01.mp3"
+  },
+  {
+    "word": "captive",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\captiv04.mp3"
+  },
+  {
+    "word": "capture",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\captur01.mp3"
+  },
+  {
+    "word": "career",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\career01.mp3"
+  },
+  {
+    "word": "careful",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\carefu01.mp3"
+  },
+  {
+    "word": "case",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\case0001.mp3"
+  },
+  {
+    "word": "cast",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\cast0001.mp3"
+  },
+  {
+    "word": "casual",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\casual01.mp3"
+  },
+  {
+    "word": "casualty",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\casual02.mp3"
+  },
+  {
+    "word": "catch",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\catch001.mp3"
+  },
+  {
+    "word": "category",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\catego06.mp3"
+  },
+  {
+    "word": "cater",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\cater001.mp3"
+  },
+  {
+    "word": "cause",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\cause001.mp3"
+  },
+  {
+    "word": "caution",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\cautio01.mp3"
+  },
+  {
+    "word": "cautious",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\cautio04.mp3"
+  },
+  {
+    "word": "cease",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\cease001.mp3"
+  },
+  {
+    "word": "celebrate",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\celebr02.mp3"
+  },
+  {
+    "word": "celebrity",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\celebr06.mp3"
+  },
+  {
+    "word": "ceremony",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\ceremo06.mp3"
+  },
+  {
+    "word": "certain",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\certai01.mp3"
+  },
+  {
+    "word": "certainty",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\certai03.mp3"
+  },
+  {
+    "word": "certificate",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\certif01.mp3"
+  },
+  {
+    "word": "certify",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\certif05.mp3"
+  },
+  {
+    "word": "decline",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\d\\declin03.mp3"
+  },
+  {
+    "word": "decrease",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\d\\decrea02.mp3"
+  },
+  {
+    "word": "deem",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\d\\deem0001.mp3"
+  },
+  {
+    "word": "dedicate",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\d\\dedica01.mp3"
+  },
+  {
+    "word": "deduce",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\d\\deduce01.mp3"
+  },
+  {
+    "word": "deduct",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\d\\deduct01.mp3"
+  },
+  {
+    "word": "fashion",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\f\\fashio01.mp3"
+  },
+  {
+    "word": "fashionable",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\f\\fashio04.mp3"
+  },
+  {
+    "word": "favor",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\f\\favor001.mp3"
+  },
+  {
+    "word": "favorable",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\f\\favora01.mp3"
+  },
+  {
+    "word": "favorite",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\f\\favori01.mp3"
+  },
+  {
+    "word": "sit",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\sit00001.mp3"
+  },
+  {
+    "word": "site",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\site0001.mp3"
+  },
+  {
+    "word": "situated",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\situated_1.mp3"
+  },
+  {
+    "word": "situation",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\situat03.mp3"
+  },
+  {
+    "word": "skeleton",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\skelet03.mp3"
+  },
+  {
+    "word": "skeleton",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\skelet03.mp3"
+  },
+  {
+    "word": "skeptical",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\skepti02.mp3"
+  },
+  {
+    "word": "sketch",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\sketch01.mp3"
+  }
+]

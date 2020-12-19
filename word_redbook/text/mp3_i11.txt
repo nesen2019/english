@@ -1,0 +1,234 @@
+[
+  {
+    "word": "console",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\consol03.mp3"
+  },
+  {
+    "word": "consist",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\consis01.mp3"
+  },
+  {
+    "word": "consistent",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\consis05.mp3"
+  },
+  {
+    "word": "constant",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\consta05.mp3"
+  },
+  {
+    "word": "constituent",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\consti05.mp3"
+  },
+  {
+    "word": "constitute",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\consti06.mp3"
+  },
+  {
+    "word": "constitution",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\consti07.mp3"
+  },
+  {
+    "word": "constrain",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\constr01.mp3"
+  },
+  {
+    "word": "construct",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\constr10.mp3"
+  },
+  {
+    "word": "distinct",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\d\\distin01.mp3"
+  },
+  {
+    "word": "distinction",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\d\\distin04.mp3"
+  },
+  {
+    "word": "distinguish",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\d\\distin07.mp3"
+  },
+  {
+    "word": "fruitful",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\f\\fruitf01.mp3"
+  },
+  {
+    "word": "frustrate",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\f\\frustr01.mp3"
+  },
+  {
+    "word": "fulfil",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\f\\fulfil01.mp3"
+  },
+  {
+    "word": "function",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\f\\functi01.mp3"
+  },
+  {
+    "word": "fund",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\f\\fund0001.mp3"
+  },
+  {
+    "word": "fundamental",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\f\\fundam02.mp3"
+  },
+  {
+    "word": "anguish",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\a\\anguis01.mp3"
+  },
+  {
+    "word": "annoy",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\a\\annoy001.mp3"
+  },
+  {
+    "word": "annual",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\a\\annual01.mp3"
+  },
+  {
+    "word": "monopoly",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\m\\monopo10.mp3"
+  },
+  {
+    "word": "monotonous",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\m\\monoto05.mp3"
+  },
+  {
+    "word": "mood",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\m\\mood0001.mp3"
+  },
+  {
+    "word": "transmission",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\transm10.mp3"
+  },
+  {
+    "word": "transmit",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\transm15.mp3"
+  },
+  {
+    "word": "transplant",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\transp14.mp3"
+  },
+  {
+    "word": "transport",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\transp23.mp3"
+  },
+  {
+    "word": "stock",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\stock001.mp3"
+  },
+  {
+    "word": "store",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\store001.mp3"
+  },
+  {
+    "word": "storage",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\storag01.mp3"
+  },
+  {
+    "word": "stride",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\stride01.mp3"
+  },
+  {
+    "word": "strike",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\strike01.mp3"
+  },
+  {
+    "word": "striking",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\strike04.mp3"
+  },
+  {
+    "word": "string",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\string01.mp3"
+  },
+  {
+    "word": "structure",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\struct07.mp3"
+  },
+  {
+    "word": "stun",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\stun0001.mp3"
+  },
+  {
+    "word": "primary",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\primar02.mp3"
+  },
+  {
+    "word": "prime",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\prime001.mp3"
+  },
+  {
+    "word": "primitive",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\primit01.mp3"
+  },
+  {
+    "word": "principal",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\princi01.mp3"
+  },
+  {
+    "word": "principle",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\princi07.mp3"
+  },
+  {
+    "word": "psychiatry",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\psychi01.mp3"
+  },
+  {
+    "word": "psychology",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\psycho44.mp3"
+  },
+  {
+    "word": "liability",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\l\\liabil01.mp3"
+  },
+  {
+    "word": "liable",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\l\\liable01.mp3"
+  },
+  {
+    "word": "liberal",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\l\\libera02.mp3"
+  },
+  {
+    "word": "liberate",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\l\\libera11.mp3"
+  },
+  {
+    "word": "license",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\l\\licens01.mp3"
+  },
+  {
+    "word": "innocent",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\i\\innoce03.mp3"
+  },
+  {
+    "word": "innovation",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\i\\innova04.mp3"
+  },
+  {
+    "word": "evidence",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\e\\eviden01.mp3"
+  },
+  {
+    "word": "evident",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\e\\eviden02.mp3"
+  },
+  {
+    "word": "evil",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\e\\evil0001.mp3"
+  },
+  {
+    "word": "environment",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\e\\enviro04.mp3"
+  },
+  {
+    "word": "enterprise",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\e\\enterp01.mp3"
+  },
+  {
+    "word": "entertain",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\e\\entert01.mp3"
+  },
+  {
+    "word": "entertainment",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\e\\entert03.mp3"
+  }
+]

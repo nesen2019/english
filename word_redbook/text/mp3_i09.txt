@@ -1,0 +1,310 @@
+[
+  {
+    "word": "holy",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\h\\holy0001.mp3"
+  },
+  {
+    "word": "honor",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\h\\honor001.mp3"
+  },
+  {
+    "word": "honorable",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\h\\honora01.mp3"
+  },
+  {
+    "word": "horizon",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\h\\horizo01.mp3"
+  },
+  {
+    "word": "horizontal",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\h\\horizo04.mp3"
+  },
+  {
+    "word": "ingenious",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\i\\ingeni01.mp3"
+  },
+  {
+    "word": "ingredient",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\i\\ingred01.mp3"
+  },
+  {
+    "word": "initial",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\i\\initia01.mp3"
+  },
+  {
+    "word": "initiate",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\i\\initia08.mp3"
+  },
+  {
+    "word": "initiative",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\i\\initia13.mp3"
+  },
+  {
+    "word": "local",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\l\\local001.mp3"
+  },
+  {
+    "word": "locality",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\l\\locali03.mp3"
+  },
+  {
+    "word": "locate",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\l\\locate02.mp3"
+  },
+  {
+    "word": "location",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\l\\locati01.mp3"
+  },
+  {
+    "word": "neglect",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\n\\neglec01.mp3"
+  },
+  {
+    "word": "negligible",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\n\\neglig04.mp3"
+  },
+  {
+    "word": "prescribe",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\prescr01.mp3"
+  },
+  {
+    "word": "prescription",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\prescr04.mp3"
+  },
+  {
+    "word": "presence",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\presen01.mp3"
+  },
+  {
+    "word": "present",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\presen02.mp3"
+  },
+  {
+    "word": "presently",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\presen23.mp3"
+  },
+  {
+    "word": "preserve",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\preser03.mp3"
+  },
+  {
+    "word": "preside",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\presid01.mp3"
+  },
+  {
+    "word": "press",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\press001.mp3"
+  },
+  {
+    "word": "pressure",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\pressu02.mp3"
+  },
+  {
+    "word": "prestige",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\presti03.mp3"
+  },
+  {
+    "word": "presumably",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\presum02.mp3"
+  },
+  {
+    "word": "presume",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\presum03.mp3"
+  },
+  {
+    "word": "prevent",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\preven02.mp3"
+  },
+  {
+    "word": "precious",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\precio02.mp3"
+  },
+  {
+    "word": "prey",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\p\\prey0001.mp3"
+  },
+  {
+    "word": "reliable",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\r\\reliab02.mp3"
+  },
+  {
+    "word": "reliance",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\r\\relian01.mp3"
+  },
+  {
+    "word": "religion",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\r\\religi02.mp3"
+  },
+  {
+    "word": "religious",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\r\\religi06.mp3"
+  },
+  {
+    "word": "rely",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\r\\rely0001.mp3"
+  },
+  {
+    "word": "straight",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\straig01.mp3"
+  },
+  {
+    "word": "straightforward",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\straig17.mp3"
+  },
+  {
+    "word": "strain",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\strain01.mp3"
+  },
+  {
+    "word": "strategy",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\strate06.mp3"
+  },
+  {
+    "word": "strength",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\streng01.mp3"
+  },
+  {
+    "word": "strengthen",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\streng04.mp3"
+  },
+  {
+    "word": "strenuous",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\s\\strenu01.mp3"
+  },
+  {
+    "word": "transaction",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\transa05.mp3"
+  },
+  {
+    "word": "transfer",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\transf04.mp3"
+  },
+  {
+    "word": "transform",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\transf23.mp3"
+  },
+  {
+    "word": "transient",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\transi05.mp3"
+  },
+  {
+    "word": "translation",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\t\\transl06.mp3"
+  },
+  {
+    "word": "architect",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\a\\archit01.mp3"
+  },
+  {
+    "word": "architecture",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\a\\archit06.mp3"
+  },
+  {
+    "word": "area",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\a\\area0001.mp3"
+  },
+  {
+    "word": "argue",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\a\\argue001.mp3"
+  },
+  {
+    "word": "argument",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\a\\argume01.mp3"
+  },
+  {
+    "word": "arise",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\a\\arise001.mp3"
+  },
+  {
+    "word": "arouse",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\a\\arouse01.mp3"
+  },
+  {
+    "word": "array",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\a\\array001.mp3"
+  },
+  {
+    "word": "visible",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\v\\visibl01.mp3"
+  },
+  {
+    "word": "vision",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\v\\vision01.mp3"
+  },
+  {
+    "word": "visual",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\v\\visual01.mp3"
+  },
+  {
+    "word": "vital",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\v\\vital001.mp3"
+  },
+  {
+    "word": "vivid",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\v\\vivid001.mp3"
+  },
+  {
+    "word": "void",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\v\\void0001.mp3"
+  },
+  {
+    "word": "volume",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\v\\volum01ld.mp3"
+  },
+  {
+    "word": "consequence",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\conseq01.mp3"
+  },
+  {
+    "word": "consequently",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\conseq07.mp3"
+  },
+  {
+    "word": "conservation",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\conser02.mp3"
+  },
+  {
+    "word": "conservative",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\conser06.mp3"
+  },
+  {
+    "word": "consider",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\consid01.mp3"
+  },
+  {
+    "word": "considerable",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\consid03.mp3"
+  },
+  {
+    "word": "considerate",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\consid05.mp3"
+  },
+  {
+    "word": "consume",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\consum02.mp3"
+  },
+  {
+    "word": "consumption",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\c\\consum18.mp3"
+  },
+  {
+    "word": "dispute",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\d\\disput05.mp3"
+  },
+  {
+    "word": "dissolve",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\d\\dissol05.mp3"
+  },
+  {
+    "word": "exchange",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\e\\exchan02.mp3"
+  },
+  {
+    "word": "exclude",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\e\\exclud03.mp3"
+  },
+  {
+    "word": "exclusive",
+    "path_mp3": "D:\\English\\english\\bigFile\\mp3_redbook\\e\\exclus04.mp3"
+  }
+]
